@@ -137,5 +137,6 @@ int32_t main()
 }
 /*
 Problem name: Smile House.
-https://codeforces.com/contest/147/problem/B
+Problem link: https://codeforces.com/contest/147/problem/B
+Problem source: https://codeforces.com/blog/entry/43225
 */
